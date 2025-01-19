@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="6167892341c26edcbf15ac617c63cf4f.gif" alt="Banner">
+  <img src="6167892341c26edcbf15ac617c63cf4f.gif" alt="Gojo">
   </a>
 </p>
 
@@ -9,14 +9,20 @@
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
-<p align="center">❤ I'm currently studying Applied Data Science</p>
-<p align="center">❤ I'm very interested in Machine Learning and Artificial Intelligence</p>
+<p align="center">:purple_heart: I'm currently studying Applied Data Science :purple_heart:</p>
+<p align="center">:purple_heart: I'm very interested in Machine Learning and Artificial Intelligence :purple_heart:</p>
+
+<p align="center">:purple_heart: I Love Anime in particular Jujutsu Kaisen, I also read alot of Manga and like to talk about them :3 :purple_heart:</p>
+
+<p align="center">:purple_heart: Feel Free to Contact me on LinkedIN :) :purple_heart:</p>
+
+<p align="center"><strong><a href="https://linkedin.com/in/julian-broednow">LinkedIN</a></strong>
 <!--
 <p align="center">
   <strong><a href="https://yuna0x0.com">Website</a></strong> |
   <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
   <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
-#  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+#  <strong><a href="https://discord.gg/713741263094022165">Discord</a></strong> |
  - <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
 </p>
 <!--
