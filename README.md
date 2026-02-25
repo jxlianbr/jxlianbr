@@ -15,6 +15,20 @@ Applied Data Science student at **Nordakademie Hamburg**, with a focus on machin
 
 ## Featured Projects
 
+### [Mapping Shrinking Villages in Rural Japan](https://github.com/jxlianbr/thesis-shrinkin-villages) — Master Thesis
+> Classifying population decline patterns in Tohoku, Japan, using satellite imagery, remote sensing, and machine learning
+
+- Integrated **Sentinel-2**, **VIIRS nighttime lights**, **Copernicus DEM**, and **Japanese Census microdata** across 65 sub-municipal units (2015–2025)
+- Built a four-stage reproducible pipeline: data acquisition via **Google Earth Engine**, EDA, preprocessing, and classification/typology
+- Applied 10 supervised classifiers; best result: **SVM (linear), balanced accuracy 0.662** under strict leakage-controlled conditions
+- Unsupervised clustering with bootstrap stability testing (1,000 resamples) and perturbation robustness checks
+- Target variable derived from elderly population ratios; top predictors: nighttime light variance, youth demographics, household composition
+- YAML-based configuration, type-hinted Python codebase, fully documented data provenance
+
+**Stack:** Python · scikit-learn · XGBoost · geopandas · Google Earth Engine · Sentinel-2 · pandas
+
+---
+
 ### Customer Churn Prediction
 > Predicting customer churn for a German telecom provider using a temporal sliding-window approach
 
@@ -55,6 +69,7 @@ Applied Data Science student at **Nordakademie Hamburg**, with a focus on machin
 | Area | Tools & Technologies |
 |------|----------------------|
 | Machine Learning | scikit-learn · LightGBM · XGBoost · imbalanced-learn |
+| Geospatial & Remote Sensing | Google Earth Engine · geopandas · Sentinel-2 · VIIRS · Copernicus DEM |
 | Data Engineering | pandas · numpy · SQL Server · Azure Synapse · Microsoft Fabric |
 | MLOps | MLflow · joblib · Azure AD · python-dotenv |
 | APIs & Services | FastAPI · REST APIs · pyodbc · pymssql |
@@ -78,4 +93,3 @@ Applied Data Science student at **Nordakademie Hamburg**, with a focus on machin
 - LinkedIn: [Julian Brödnow](https://www.linkedin.com/in/julian-br%C3%B6dnow)
 - GitHub: [@jxlianbr](https://github.com/jxlianbr)
 - Location: Hamburg, Germany
-
