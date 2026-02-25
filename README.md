@@ -15,7 +15,7 @@ Applied Data Science student at **Nordakademie Hamburg**, with a focus on machin
 
 ## Featured Projects
 
-### Customer Churn Prediction — Master Thesis
+### Customer Churn Prediction
 > Predicting customer churn for a German telecom provider using a temporal sliding-window approach
 
 - Built end-to-end ML pipeline in Python with scikit-learn, deployed on **Microsoft Fabric / Azure Synapse**
